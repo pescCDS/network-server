@@ -23,7 +23,6 @@
 		<hibernate.annotations.version>3.5.6-Final</hibernate.annotations.version>
 		<hibernate.annotations.commons.version>4.0.5.Final</hibernate.annotations.commons.version>
 		<mariadb.version>1.1.7</mariadb.version>
-		
 	</properties>
 
 	<profiles>
